@@ -47,10 +47,12 @@ Contract ranking by revenue contribution:
 
 ## 📁 Data
 
-The dataset includes:
+The dashboard was built using a structured dataset containing:
 - Contract ID
 - Service category
 - Revenue amount
+
+The focus of the project is analytical logic and visualization design.
 
 ---
 
