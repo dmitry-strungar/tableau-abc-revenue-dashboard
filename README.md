@@ -63,3 +63,14 @@ The dashboard helps:
 - Detect high-value contracts
 - Focus management attention on A-segment clients
 - Support strategic decision-making
+
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.twbx` file from the `dashboards` folder
+2. Open it in Tableau Desktop or Tableau Public
+3. Use filters to explore the data interactively
+
+---
