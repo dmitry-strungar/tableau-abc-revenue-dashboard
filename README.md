@@ -64,8 +64,18 @@ The dashboard helps:
 - Focus management attention on A-segment clients
 - Support strategic decision-making
 
+---
+
+## Key Insights
+
+- Service "Software Development" generates the majority of revenue (~62%), representing the core business driver.
+- A small number of contracts (Segment A) contributes to a disproportionate share of total revenue, confirming Pareto distribution.
+- Segment C contains many low-value contracts with minimal revenue contribution, indicating potential inefficiencies.
+- Revenue concentration suggests high dependency on a limited number of contracts, which may increase business risk.
+
 
 ---
+
 
 ## 🚀 How to Use
 
