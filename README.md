@@ -1,6 +1,6 @@
 # Dashboard: ABC Revenue & Contract Structure Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a management dashboard built in Tableau to analyze company revenue structure and contract segmentation using ABC-analysis.
 
@@ -12,7 +12,7 @@ The dashboard allows evaluation of:
 
 ---
 
-## 📊 Dashboard Components
+## Dashboard Components
 
 ### 1. KPI Block
 - Total revenue
@@ -33,7 +33,7 @@ Contract ranking by revenue contribution:
 
 ---
 
-## ⚙️ Techniques Used
+## Techniques Used
 
 - Calculated fields
 - Running total
@@ -45,7 +45,7 @@ Contract ranking by revenue contribution:
 
 ---
 
-## 📁 Data
+## Data
 
 The dashboard was built using a structured dataset containing:
 - Contract ID
@@ -56,7 +56,7 @@ The focus of the project is analytical logic and visualization design.
 
 ---
 
-## 🎯 Business Value
+## Business Value
 
 The dashboard helps:
 - Identify key revenue-generating services
@@ -77,7 +77,7 @@ The dashboard helps:
 ---
 
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `.twbx` file from the `dashboards` folder
 2. Open it in Tableau Desktop or Tableau Public
