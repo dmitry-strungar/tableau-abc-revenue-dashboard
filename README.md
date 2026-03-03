@@ -1,86 +1,84 @@
-# Dashboard: ABC Revenue & Contract Structure Analysis
+# Дашборд: ABC-анализ выручки и структуры контрактов
 
-## Project Overview
+## Обзор проекта
 
-This project presents a management dashboard built in Tableau to analyze company revenue structure and contract segmentation using ABC-analysis.
+Данный проект представляет управленческий дашборд, созданный в Tableau для анализа структуры выручки компании и сегментации контрактов с использованием ABC-анализа.
 
-The dashboard allows evaluation of:
-- Revenue distribution by service category
-- Contract contribution to total revenue
-- ABC-segmentation of services and contracts
-- Key performance indicators (KPI)
-
----
-
-## Dashboard Components
-
-### 1. KPI Block
-- Total revenue
-- Number of contracts
-- Average check
-
-### 2. Revenue Structure by Services
-Bar chart showing revenue share by service category.
-
-### 3. ABC-Analysis of Services
-Cumulative revenue curve with 80% threshold.
-
-### 4. ABC-Analysis of Contracts
-Contract ranking by revenue contribution:
-- A segment (top 80%)
-- B segment (80–95%)
-- C segment (below 95%)
+Дашборд позволяет оценить:
+- Распределение выручки по категориям услуг
+- Вклад контрактов в общую выручку
+- ABC-сегментацию услуг и контрактов
+- Ключевые показатели эффективности (KPI)
 
 ---
 
-## Techniques Used
+## Компоненты дашборда
 
-- Calculated fields
-- Running total
-- Window functions (table calculations)
-- ABC classification logic
-- Dual-axis charts
-- KPI cards
-- Interactive dashboard layout
+### 1. Блок KPI
+- Общая выручка
+- Количество контрактов
+- Средний чек
 
----
+### 2. Структура выручки по услугам
+Гистограмма, отображающая долю выручки по категориям услуг.
 
-## Data
+### 3. ABC-анализ услуг
+Кумулятивная кривая выручки с порогом 80%.
 
-The dashboard was built using a structured dataset containing:
-- Contract ID
-- Service category
-- Revenue amount
-
-The focus of the project is analytical logic and visualization design.
+### 4. ABC-анализ контрактов
+Ранжирование контрактов по вкладу в выручку:
+- Сегмент A (первые 80%)
+- Сегмент B (80–95%)
+- Сегмент C (ниже 95%)
 
 ---
 
-## Business Value
+## Используемые техники
 
-The dashboard helps:
-- Identify key revenue-generating services
-- Detect high-value contracts
-- Focus management attention on A-segment clients
-- Support strategic decision-making
-
----
-
-## Key Insights
-
-- Service "Software Development" generates the majority of revenue (~62%), representing the core business driver.
-- A small number of contracts (Segment A) contributes to a disproportionate share of total revenue, confirming Pareto distribution.
-- Segment C contains many low-value contracts with minimal revenue contribution, indicating potential inefficiencies.
-- Revenue concentration suggests high dependency on a limited number of contracts, which may increase business risk.
-
+- Вычисляемые поля
+- Накопительный итог
+- Оконные функции (табличные вычисления)
+- Логика ABC-классификации
+- Двухосевые графики
+- KPI-карточки
+- Интерактивная структура дашборда
 
 ---
 
+## Данные
 
-## How to Use
+Дашборд построен на основе структурированного набора данных, содержащего:
+- ID контракта
+- Категорию услуги
+- Сумму выручки
 
-1. Download the `.twbx` file from the `dashboards` folder
-2. Open it in Tableau Desktop or Tableau Public
-3. Use filters to explore the data interactively
+Фокус проекта — аналитическая логика и дизайн визуализации.
+
+---
+
+## Бизнес-ценность
+
+Дашборд помогает:
+- Определить ключевые услуги, генерирующие выручку
+- Выявить высокодоходные контракты
+- Сфокусировать внимание руководства на клиентах сегмента A
+- Поддерживать стратегическое принятие решений
+
+---
+
+## Ключевые инсайты
+
+- Услуга "Software Development" генерирует основную часть выручки (~62%), являясь ключевым драйвером бизнеса.
+- Небольшое количество контрактов (сегмент A) формирует непропорционально большую долю общей выручки, подтверждая распределение Парето.
+- Сегмент C включает множество контрактов с низкой ценностью и минимальным вкладом в выручку, что может указывать на потенциальную неэффективность.
+- Концентрация выручки свидетельствует о высокой зависимости от ограниченного числа контрактов, что может повышать бизнес-риск.
+
+---
+
+## Как использовать
+
+1. Скачайте файл `.twbx` из папки `dashboards`
+2. Откройте его в Tableau Desktop или Tableau Public
+3. Используйте фильтры для интерактивного анализа данных
 
 ---
