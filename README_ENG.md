@@ -133,9 +133,9 @@ Tools
 - Table Calculations
 - Aggregated metric analysis
 
-Analytical Skills
-Tableau Technical Skills
-BI & Management Analytics Competencies
+Analytical Skills  
+Tableau Technical Skills  
+BI & Management Analytics Competencies  
 
 This project demonstrates the ability to transform structured data into a management decision-support tool.
 
