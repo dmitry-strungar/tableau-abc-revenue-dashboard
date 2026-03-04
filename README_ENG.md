@@ -128,7 +128,7 @@ Potential risk mitigation strategies include:
 
 ## How to Use
 
-1. Download the `.twbx` file from the `dashboards` folder
+1. Download the `.twbx` file 
 2. Open it in Tableau Desktop or Tableau Public
 3. Use filters to explore the data interactively
 
