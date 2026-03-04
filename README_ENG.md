@@ -68,11 +68,60 @@ The dashboard helps:
 
 ## Key Insights
 
-- Service "Software Development" generates the majority of revenue (~62%), representing the core business driver.
-- A small number of contracts (Segment A) contributes to a disproportionate share of total revenue, confirming Pareto distribution.
-- Segment C contains many low-value contracts with minimal revenue contribution, indicating potential inefficiencies.
-- Revenue concentration suggests high dependency on a limited number of contracts, which may increase business risk.
+### 1. Strong Revenue Concentration by Service Line
 
+Software Development accounts for **62% of total revenue**, making it the dominant business driver.
+
+Technical Support contributes approximately **36%**, while Consulting represents only **~2%**, indicating a highly specialized revenue structure.
+
+The company is heavily dependent on a single core service line.
+
+
+### 2. Clear Pareto Effect (ABC Analysis)
+
+Segment A (top 80% cumulative revenue) consists of a limited number of contracts generating the majority of income.
+
+The cumulative revenue curve rises steeply at the top, confirming strong revenue concentration.
+
+A small group of contracts carries the primary financial weight of the business.
+
+
+### 3. Portfolio Imbalance
+
+Segment C includes numerous low-value contracts with minimal contribution to total revenue.
+
+Their aggregate financial impact is small relative to potential operational costs.
+
+This may indicate:
+
+- inefficient portfolio structure  
+- absence of minimum profitability thresholds  
+- pricing misalignment  
+
+
+### 4. Revenue Concentration Risk
+
+Total revenue equals **21,804**, with a significant share concentrated in Segment A.
+
+Loss of even one major contract could materially impact financial performance.
+
+The current model reflects high dependency on a limited client base.
+
+
+### 5. Strategic Implications
+
+The company demonstrates:
+
+- strong specialization  
+- high revenue concentration  
+- portfolio stability risk  
+
+Potential risk mitigation strategies include:
+
+- diversification of the client base  
+- expansion of consulting services  
+- cross-selling initiatives  
+- strengthening Segment B contracts  
 
 ---
 
