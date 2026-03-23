@@ -124,6 +124,19 @@ Potential risk mitigation strategies include:
 - strengthening Segment B contracts  
 
 ---
+## Business Value
+Identifies high-value contracts generating majority of revenue  
+Confirms Pareto distribution within contract portfolio  
+Detects inefficiencies in low-value contract segment  
+Supports portfolio optimization and revenue diversification  
+
+## Stakeholders
+Top Management  
+Sales Team  
+Finance Department  
+Account Managers  
+
+---
 
 ## Technology Stack & Demonstrated Skills
 
