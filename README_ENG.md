@@ -160,4 +160,3 @@ This project demonstrates the ability to transform structured data into a manage
 2. Open it in Tableau Desktop or Tableau Public
 3. Use filters to explore the data interactively
 
----
