@@ -10,8 +10,6 @@ The dashboard allows evaluation of:
 - ABC-segmentation of services and contracts
 - Key performance indicators (KPI)
 
----
-
 ## Dashboard Components
 
 ### 1. KPI Block
@@ -31,7 +29,20 @@ Contract ranking by revenue contribution:
 - B segment (80–95%)
 - C segment (below 95%)
 
----
+## Stack of AI tools
+During the work on the project, AI tools were used to accelerate development and improve the effectiveness of analytics.:
+
+ChatGPT was used for:
+1) Generation of drafts of calculated fields for calculating cumulative revenue and ABC classification of contracts (segments A/B/C)
+2) Prototyping the logic of window functions and tabular calculations in Tableau for the correct ranking of contracts by revenue contribution
+3) Looking for ideas for visualizing a cumulative curve and two-axis graphs (combining columns and the accumulated percentage line)
+
+DeepSeek was used for:
+1) Improvements and optimizations of calculated fields (checking the correctness of aggregations, eliminating errors in the logic of determining thresholds of 80% and 95%)
+2) Checking the logic of ABC segmentation of services and contracts, taking into account the sorting in descending order of revenue
+3) Preparation of a description of key insights for dashboard documentation (formulation of conclusions about revenue concentration, Pareto effect and portfolio risks)
+
+All key stages - designing the dashboard structure, setting up tabular calculations, visualization and interpretation of the results - were performed independently. AI was used as a tool to accelerate the development and verification of hypotheses.
 
 ## Techniques Used
 
@@ -43,8 +54,6 @@ Contract ranking by revenue contribution:
 - KPI cards
 - Interactive dashboard layout
 
----
-
 ## Data
 
 The dashboard was built using a structured dataset containing:
@@ -54,8 +63,6 @@ The dashboard was built using a structured dataset containing:
 
 The focus of the project is analytical logic and visualization design.
 
----
-
 ## Business Value
 
 The dashboard helps:
@@ -63,8 +70,6 @@ The dashboard helps:
 - Detect high-value contracts
 - Focus management attention on A-segment clients
 - Support strategic decision-making
-
----
 
 ## Key Insights
 
@@ -123,7 +128,6 @@ Potential risk mitigation strategies include:
 - cross-selling initiatives  
 - strengthening Segment B contracts  
 
----
 ## Business Value
 Identifies high-value contracts generating majority of revenue  
 Confirms Pareto distribution within contract portfolio  
@@ -135,8 +139,6 @@ Top Management
 Sales Team  
 Finance Department  
 Account Managers  
-
----
 
 ## Technology Stack & Demonstrated Skills
 
@@ -151,8 +153,6 @@ Tableau Technical Skills
 BI & Management Analytics Competencies  
 
 This project demonstrates the ability to transform structured data into a management decision-support tool.
-
----
 
 ## How to Use
 
