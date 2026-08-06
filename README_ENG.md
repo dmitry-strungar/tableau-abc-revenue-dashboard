@@ -29,21 +29,6 @@ Contract ranking by revenue contribution:
 - B segment (80–95%)
 - C segment (below 95%)
 
-## Stack of AI tools
-During the work on the project, AI tools were used to accelerate development and improve the effectiveness of analytics.:
-
-ChatGPT was used for:
-1) Generation of drafts of calculated fields for calculating cumulative revenue and ABC classification of contracts (segments A/B/C)
-2) Prototyping the logic of window functions and tabular calculations in Tableau for the correct ranking of contracts by revenue contribution
-3) Looking for ideas for visualizing a cumulative curve and two-axis graphs (combining columns and the accumulated percentage line)
-
-DeepSeek was used for:
-1) Improvements and optimizations of calculated fields (checking the correctness of aggregations, eliminating errors in the logic of determining thresholds of 80% and 95%)
-2) Checking the logic of ABC segmentation of services and contracts, taking into account the sorting in descending order of revenue
-3) Preparation of a description of key insights for dashboard documentation (formulation of conclusions about revenue concentration, Pareto effect and portfolio risks)
-
-All key stages - designing the dashboard structure, setting up tabular calculations, visualization and interpretation of the results - were performed independently. AI was used as a tool to accelerate the development and verification of hypotheses.
-
 ## Techniques Used
 
 - Calculated fields
@@ -139,6 +124,21 @@ Top Management
 Sales Team  
 Finance Department  
 Account Managers  
+
+## Stack of AI tools
+During the work on the project, AI tools were used to accelerate development and improve the effectiveness of analytics.:
+
+ChatGPT was used for:
+1) Generation of drafts of calculated fields for calculating cumulative revenue and ABC classification of contracts (segments A/B/C)
+2) Prototyping the logic of window functions and tabular calculations in Tableau for the correct ranking of contracts by revenue contribution
+3) Looking for ideas for visualizing a cumulative curve and two-axis graphs (combining columns and the accumulated percentage line)
+
+DeepSeek was used for:
+1) Improvements and optimizations of calculated fields (checking the correctness of aggregations, eliminating errors in the logic of determining thresholds of 80% and 95%)
+2) Checking the logic of ABC segmentation of services and contracts, taking into account the sorting in descending order of revenue
+3) Preparation of a description of key insights for dashboard documentation (formulation of conclusions about revenue concentration, Pareto effect and portfolio risks)
+
+All key stages - designing the dashboard structure, setting up tabular calculations, visualization and interpretation of the results - were performed independently. AI was used as a tool to accelerate the development and verification of hypotheses.
 
 ## Technology Stack & Demonstrated Skills
 
